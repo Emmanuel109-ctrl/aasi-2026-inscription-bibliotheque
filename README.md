@@ -71,9 +71,8 @@ localisées et corrigeables à faible coût, sans refonte complète.
 | HOUNNOU Déo-Gratias | Front-end administration | 2 |
 | NACHIROU Rayane | Front-end session usager | 2 |
 
-Le détail par personne est dans [`taches/`](taches/README.md). Chaque membre dépose sa
-contribution individuelle dans [`contributions/`](contributions/) sur sa branche `sprint1/<prenom>`,
-puis ouvre une pull request.
+Le détail est dans [`Taches-Emmanuel-ADOUNSI.md`](Taches-Emmanuel-ADOUNSI.md).
+Chaque membre dépose sa propre fiche sur sa branche `sprint1/<prenom>`, puis ouvre une pull request.
 
 ## Gestion de projet
 

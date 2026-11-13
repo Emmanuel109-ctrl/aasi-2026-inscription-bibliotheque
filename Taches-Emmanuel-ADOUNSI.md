@@ -23,7 +23,7 @@ Une carte est terminée quand :
 
 ## 3. Ce que tu pousses
 
-1. `contributions/emmanuel-adounsi.md` — rempli (obligatoire, c'est la trace individuelle).
+1. Cette fiche mise à jour : coche les cases faites, ajoute le lien de tes commits.
 2. Tes éventuels fichiers de code / scripts SQL dans `code/` ou `sql/`.
 3. **Rien d'autre** : ne modifie pas les fichiers des autres membres.
 
