@@ -1,7 +1,7 @@
 # Répartition des tâches — Sprint 1 « Module Utilisateurs et Rôles »
 
 **Groupe 7** — AASI 2026 · TP « Améliorer un processus existant »
-**Dépôt** : <https://github.com/Emmanuel109-ctrl/test-aasi->
+**Dépôt** : <https://github.com/Emmanuel109-ctrl/aasi-2026-inscription-bibliotheque>
 **Tableau Trello** : <https://trello.com/b/tm1lTD6a/backlog>
 **Fin de sprint** : dimanche 15 novembre 2026
 
@@ -43,5 +43,5 @@ tableau de bord, etc.) ne sont volontairement assignées à personne : elles con
 
 1. Accepter l'invitation GitHub reçue par mail (*View invitation* → *Accept invitation*).
 2. `git config --global user.name "Prénom NOM"` puis `git config --global user.email "email-du-compte-github"`.
-3. `git clone https://github.com/Emmanuel109-ctrl/test-aasi-.git`
+3. `git clone https://github.com/Emmanuel109-ctrl/aasi-2026-inscription-bibliotheque.git`
 4. Lire son fichier dans `taches/` et remplir `contributions/<prenom>.md`.

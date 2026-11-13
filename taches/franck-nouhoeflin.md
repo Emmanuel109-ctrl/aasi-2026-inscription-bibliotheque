@@ -2,7 +2,7 @@
 
 **Rôle dans l'équipe** : back-end utilisateurs et authentification
 **Sprint** : Sprint 1 — Module Utilisateurs et Rôles · **Fin** : dimanche 15 novembre 2026
-**Dépôt** : <https://github.com/Emmanuel109-ctrl/test-aasi-> · **Branche** : `sprint1/franck`
+**Dépôt** : <https://github.com/Emmanuel109-ctrl/aasi-2026-inscription-bibliotheque> · **Branche** : `sprint1/franck`
 
 ## 1. Tes trois tâches
 
@@ -31,8 +31,8 @@
 git config --global user.name "Franck NOUHOEFLIN"
 git config --global user.email "ton-email-github@exemple.com"
 
-git clone https://github.com/Emmanuel109-ctrl/test-aasi-.git
-cd test-aasi-
+git clone https://github.com/Emmanuel109-ctrl/aasi-2026-inscription-bibliotheque.git
+cd aasi-2026-inscription-bibliotheque
 git checkout -b sprint1/franck
 
 # ... travail ...

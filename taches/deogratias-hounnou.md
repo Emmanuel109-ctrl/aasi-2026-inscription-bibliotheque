@@ -2,7 +2,7 @@
 
 **Rôle dans l'équipe** : front-end « administration » (écrans du bibliothécaire)
 **Sprint** : Sprint 1 — Module Utilisateurs et Rôles · **Fin** : dimanche 15 novembre 2026
-**Dépôt** : <https://github.com/Emmanuel109-ctrl/test-aasi-> · **Branche** : `sprint1/deogratias`
+**Dépôt** : <https://github.com/Emmanuel109-ctrl/aasi-2026-inscription-bibliotheque> · **Branche** : `sprint1/deogratias`
 
 ## 1. Tes deux tâches
 
@@ -32,8 +32,8 @@ Tu as deux cartes mais ce sont les plus visibles : ce sont les écrans que le pr
 git config --global user.name "Déo-Gratias HOUNNOU"
 git config --global user.email "ton-email-github@exemple.com"
 
-git clone https://github.com/Emmanuel109-ctrl/test-aasi-.git
-cd test-aasi-
+git clone https://github.com/Emmanuel109-ctrl/aasi-2026-inscription-bibliotheque.git
+cd aasi-2026-inscription-bibliotheque
 git checkout -b sprint1/deogratias
 
 # ... travail ...
