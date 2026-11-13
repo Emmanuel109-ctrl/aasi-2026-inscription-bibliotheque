@@ -1,6 +1,6 @@
 # AASI 2026 — TP : amélioration du processus d'inscription à une bibliothèque
 
-**Groupe 7** — ADOUNSI Emmanuel · HOUNNOU Déo-Gratias · MAHUGBE Obédine · NACHIROU Rayane
+**Groupe 7** — ADOUNSI Emmanuel · HOUNNOU Déo-Gratias · MAHUGBE Obédine · NACHIROU Rayane · NOUHOEFLIN Franck
 
 ## Objet du TP
 
@@ -60,6 +60,20 @@ localisées et corrigeables à faible coût, sans refonte complète.
 - **Chemin d'échec du paiement** : la passerelle « Paiement réussi ? » mène à
   « Inscription annulée (compte supprimé) ». Sans ce chemin, le processus resterait
   bloqué à la jonction parallèle.
+
+## Équipe et répartition du travail
+
+| Membre | Rôle | Tâches du sprint 1 |
+|---|---|---|
+| ADOUNSI Emmanuel | Coordination, back-end rôles | 3 |
+| MAHUGBE Obédine | Base de données, cycle de vie du compte | 3 |
+| NOUHOEFLIN Franck | Back-end utilisateurs et authentification | 3 |
+| HOUNNOU Déo-Gratias | Front-end administration | 2 |
+| NACHIROU Rayane | Front-end session usager | 2 |
+
+Le détail par personne est dans [`taches/`](taches/README.md). Chaque membre dépose sa
+contribution individuelle dans [`contributions/`](contributions/) sur sa branche `sprint1/<prenom>`,
+puis ouvre une pull request.
 
 ## Gestion de projet
 
